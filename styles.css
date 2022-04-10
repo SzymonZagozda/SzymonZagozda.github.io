@@ -1,0 +1,42 @@
+#naglowek{
+    height: 70px;
+    background-color: rgb(0, 119, 255);
+    width: 100%;
+    color:whitesmoke;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+#logo{
+    font-size: 55px;
+    padding-left: 10px;
+    padding-right: 30px;
+}
+#line{
+    display: flex;
+}
+#nav{
+    display: flex;
+}
+.element{
+    height: 100%;
+    padding-top:20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.nav-a{
+    color:whitesmoke;
+    font-size: larger;
+}
+#stopa{
+    height: 70px;
+    background-color: rgb(0, 119, 255);
+    width: 100%;
+    color:whitesmoke;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+#content{
+    padding-top: 80px;
+}
